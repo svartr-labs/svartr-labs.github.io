@@ -1,0 +1,8 @@
+# Security contact for Svartr_Labs (RFC 9116)
+# Report vulnerabilities in our website or our projects to the address below.
+
+Contact: mailto:svartr@proton.me
+Expires: 2027-09-28T00:00:00.000Z
+Preferred-Languages: en
+Policy: https://svartr-labs.github.io/#disclosure
+Canonical: https://svartr-labs.github.io/.well-known/security.txt
